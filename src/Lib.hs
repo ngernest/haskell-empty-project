@@ -3,4 +3,4 @@ module Lib
     ) where
 
 someFunc :: String
-someFunc = "Hello CIS 5520"
+someFunc = "Hello World!"
